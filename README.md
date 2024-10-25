@@ -28,3 +28,28 @@ Este proyecto es un conversor de monedas basado en la API de ExchangeRate-API. P
 
 ### Ejemplo de Uso
 
+Bienvenido al Conversor de Monedas
+
+Selecciona la moneda base (1-5):
+
+USD (Dólar Estadounidense)
+ARS (Peso Argentino)
+BRL (Real Brasileño)
+COP (Peso Colombiano)
+EUR (Euro)
+1
+
+Selecciona la moneda a convertir (1-5):
+
+USD (Dólar Estadounidense)
+ARS (Peso Argentino)
+BRL (Real Brasileño)
+COP (Peso Colombiano)
+EUR (Euro)
+5
+
+Introduce el valor de la moneda base:
+
+100
+
+Conversión realizada con éxito: 100 USD son equivalentes a 95 EUR.
